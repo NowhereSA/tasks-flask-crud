@@ -1,4 +1,3 @@
 # tasks-flask-crud
 
-Batata Frita ao molho pardo.<p>
-seila curso piratas
+how to use CRUD basic example.<p>
